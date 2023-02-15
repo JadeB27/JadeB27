@@ -4,7 +4,7 @@ My name is Jade Bedlington and I am from Ontario, Canada. I have always been int
 
 ### Languages: 
 
-Python, C++, C#, Java, JavaScript, PHP, HTML, CSS.
+Python, C++, C#, Cobol, Java, JavaScript, PHP, HTML, CSS.
 
 ### Frameworks: 
 
