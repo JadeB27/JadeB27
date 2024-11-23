@@ -7,7 +7,7 @@ My name is Jade Bedlington and I am from Ontario, Canada. I have always been int
 
 ### Programming Languages/Frameworks/Libraries: 
 
-###Front-End: 
+### Front-End: 
 HTML5, CSS3, JavaScript (ES5/ES6), React, and jQuery.
 ### Design: 
 Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator, Search Engine Optimization (SEO), and Responsive Web Design (RWD).
